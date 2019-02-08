@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\bin\Debug\XML.RSS.OKUMA ODEVI.exe.config
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\bin\Debug\XML.RSS.OKUMA ODEVI.exe
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\bin\Debug\XML.RSS.OKUMA ODEVI.pdb
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\obj\Debug\XML.RSS.OKUMA ODEVI.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\obj\Debug\XML.RSS.OKUMA_ODEVI.Form1.resources
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\obj\Debug\XML.RSS.OKUMA_ODEVI.Properties.Resources.resources
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\obj\Debug\XML.RSS.OKUMA ODEVI.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\obj\Debug\XML.RSS.OKUMA ODEVI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\obj\Debug\XML.RSS.OKUMA ODEVI.exe
+C:\Users\Asus\source\repos\XML.RSS.OKUMA ODEVI\obj\Debug\XML.RSS.OKUMA ODEVI.pdb

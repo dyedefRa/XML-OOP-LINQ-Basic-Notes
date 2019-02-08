@@ -1,0 +1,20 @@
+<kullanıcılar ID="1">
+  <kullanici>
+    <kullaniciadi>k1             </kullaniciadi>
+    <sifre>135            </sifre>
+    <adi>Ahmet          </adi>
+    <soyadi>sabbh               </soyadi>
+  </kullanici>
+  <kullanici>
+    <kullaniciadi>k2             </kullaniciadi>
+    <sifre>136            </sifre>
+    <adi>Muhammet       </adi>
+    <soyadi>sadasd              </soyadi>
+  </kullanici>
+  <kullanici>
+    <kullaniciadi>k3             </kullaniciadi>
+    <sifre>137            </sifre>
+    <adi>SSSS           </adi>
+    <soyadi>KKKK                </soyadi>
+  </kullanici>
+</kullanıcılar>

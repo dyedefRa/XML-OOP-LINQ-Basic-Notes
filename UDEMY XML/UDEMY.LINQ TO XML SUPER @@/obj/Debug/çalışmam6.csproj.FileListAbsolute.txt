@@ -1,0 +1,27 @@
+C:\Users\Asus\source\repos\çalışmam6\bin\Debug\çalışmam6.exe.config
+C:\Users\Asus\source\repos\çalışmam6\bin\Debug\çalışmam6.exe
+C:\Users\Asus\source\repos\çalışmam6\bin\Debug\çalışmam6.pdb
+C:\Users\Asus\source\repos\çalışmam6\obj\Debug\çalışmam6.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\çalışmam6\obj\Debug\çalışmam6.Form1.resources
+C:\Users\Asus\source\repos\çalışmam6\obj\Debug\çalışmam6.Properties.Resources.resources
+C:\Users\Asus\source\repos\çalışmam6\obj\Debug\çalışmam6.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\çalışmam6\obj\Debug\çalışmam6.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\çalışmam6\obj\Debug\çalışmam6.exe
+C:\Users\Asus\source\repos\çalışmam6\obj\Debug\çalışmam6.pdb
+C:\Users\Asus\source\repos\çalışmam6\bin\Debug\FakeData.dll
+C:\Users\Asus\source\repos\çalışmam6\bin\Debug\FakeData.pdb
+C:\Users\Asus\source\repos\çalışmam6\obj\Debug\çalışmam6.Form2.resources
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\bin\Debug\çalışmam6.exe.config
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\bin\Debug\çalışmam6.exe
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\bin\Debug\çalışmam6.pdb
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\bin\Debug\FakeData.dll
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\bin\Debug\FakeData.pdb
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.Form1.resources
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.Form2.resources
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.Form3.resources
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.exe
+C:\Users\Asus\source\repos\A.XML\UDEMY XML\UDEMY.LINQ TO XML SUPER @@\obj\Debug\çalışmam6.pdb

@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\bin\Debug\XML VERI OKUYAK KENDIM YAZIM.exe.config
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\bin\Debug\XML VERI OKUYAK KENDIM YAZIM.exe
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\bin\Debug\XML VERI OKUYAK KENDIM YAZIM.pdb
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML VERI OKUYAK KENDIM YAZIM.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML_VERI_OKUYAK_KENDIM_YAZIM.Form1.resources
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML_VERI_OKUYAK_KENDIM_YAZIM.Properties.Resources.resources
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML VERI OKUYAK KENDIM YAZIM.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML VERI OKUYAK KENDIM YAZIM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML VERI OKUYAK KENDIM YAZIM.exe
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML VERI OKUYAK KENDIM YAZIM.pdb
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML_VERI_OKUYAK_KENDIM_YAZIM.Form2.resources
+C:\Users\Asus\source\repos\XML VERI OKUYAK KENDIM YAZIM\obj\Debug\XML_VERI_OKUYAK_KENDIM_YAZIM.Form3.resources

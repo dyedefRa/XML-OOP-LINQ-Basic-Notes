@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ogrenciler>
+  <Ogrenci Adi="Erman" Soyadi="Çingil">
+    <Ders Adi="Yazılım" Kredi="10" DersSaati="10">
+      <Sinavlar>
+        <Sinav Adi="Intro">72</Sinav>
+        <Sinav Adi="MSSQL">72</Sinav>
+        <Sinav Adi="WEB">72</Sinav>
+        <Sinav Adi="Framework">72</Sinav>
+      </Sinavlar>
+      <Projeler>
+        <Proje Adi="Intro">72</Proje>
+        <Proje Adi="MSSQL">72</Proje>
+        <Proje Adi="ADO.NET">72</Proje>
+        <Proje Adi="WEB">72</Proje>
+        <Proje Adi="Bitirme">72</Proje>
+      </Projeler>
+    </Ders>
+    <Ders Adi="Sistem" Kredi="10" DersSaati="10">
+      <Sinavlar>
+        <Sinav Adi="sallamasyon">72</Sinav>
+        <Sinav Adi="MSSQL">72</Sinav>
+        <Sinav Adi="WEB">72</Sinav>
+        <Sinav Adi="Framework">72</Sinav>
+      </Sinavlar>
+      <Projeler>
+        <Proje Adi="sallamasyon">72</Proje>
+        <Proje Adi="MSSQL">72</Proje>
+        <Proje Adi="ADO.NET">72</Proje>
+        <Proje Adi="WEB">72</Proje>
+        <Proje Adi="Bitirme">72</Proje>
+      </Projeler>
+    </Ders>
+    
+  </Ogrenci>
+  <Ogrenci Adi="FARUK" Soyadi="PUSTOGLI">
+    <Ders Adi="tasarım" Kredi="10" DersSaati="10">
+      <Sinavlar>
+        <Sinav Adi="farukun">72</Sinav>
+        <Sinav Adi="MSSQL">72</Sinav>
+        <Sinav Adi="WEB">72</Sinav>
+        <Sinav Adi="Framework">72</Sinav>
+      </Sinavlar>
+      <Projeler>
+        <Proje Adi="Intro">72</Proje>
+        <Proje Adi="MSSQL">72</Proje>
+        <Proje Adi="ADO.NET">72</Proje>
+        <Proje Adi="WEB">72</Proje>
+        <Proje Adi="Bitirme">72</Proje>
+      </Projeler>
+    </Ders>
+    <Ders Adi="tassarım" Kredi="10" DersSaati="10">
+      <Sinavlar>
+        <Sinav Adi="sallamasyon">72</Sinav>
+        <Sinav Adi="MSSQL">72</Sinav>
+        <Sinav Adi="WEB">72</Sinav>
+        <Sinav Adi="Framework">72</Sinav>
+      </Sinavlar>
+      <Projeler>
+        <Proje Adi="sallamasyon">72</Proje>
+        <Proje Adi="MSSQL">72</Proje>
+        <Proje Adi="ADO.NET">72</Proje>
+        <Proje Adi="WEB">72</Proje>
+        <Proje Adi="Bitirme">72</Proje>
+      </Projeler>
+    </Ders>
+
+  </Ogrenci>
+  <Ogrenci Adi="Erman" Soyadi="Çingil">
+    <Ders Adi="Yazılım" Kredi="10" DersSaati="10">
+      <Sinavlar>
+        <Sinav Adi="Intro">72</Sinav>
+        <Sinav Adi="MSSQL">72</Sinav>
+        <Sinav Adi="WEB">72</Sinav>
+        <Sinav Adi="Framework">72</Sinav>
+      </Sinavlar>
+      <Projeler>
+        <Proje Adi="Intro">72</Proje>
+        <Proje Adi="MSSQL">72</Proje>
+        <Proje Adi="ADO.NET">72</Proje>
+        <Proje Adi="WEB">72</Proje>
+        <Proje Adi="Bitirme">72</Proje>
+      </Projeler>
+    </Ders>
+    <Ders Adi="Sistem" Kredi="10" DersSaati="10">
+      <Sinavlar>
+        <Sinav Adi="sallamasyon">72</Sinav>
+        <Sinav Adi="MSSQL">72</Sinav>
+        <Sinav Adi="WEB">72</Sinav>
+        <Sinav Adi="Framework">72</Sinav>
+      </Sinavlar>
+      <Projeler>
+        <Proje Adi="sallamasyon">72</Proje>
+        <Proje Adi="MSSQL">72</Proje>
+        <Proje Adi="ADO.NET">72</Proje>
+        <Proje Adi="WEB">72</Proje>
+        <Proje Adi="Bitirme">72</Proje>
+      </Projeler>
+    </Ders>
+
+  </Ogrenci>
+  <Ogrenci Adi="son" Soyadi="Çingil">
+    <Ders Adi="Yazılım" Kredi="10" DersSaati="10">
+      <Sinavlar>
+        <Sinav Adi="son">72</Sinav>
+        <Sinav Adi="MSSQL">72</Sinav>
+        <Sinav Adi="WEB">72</Sinav>
+        <Sinav Adi="Framework">72</Sinav>
+      </Sinavlar>
+      <Projeler>
+        <Proje Adi="Intro">72</Proje>
+        <Proje Adi="MSSQL">72</Proje>
+        <Proje Adi="ADO.NET">72</Proje>
+        <Proje Adi="WEB">72</Proje>
+        <Proje Adi="Bitirme">72</Proje>
+      </Projeler>
+    </Ders>
+    <Ders Adi="Sistem" Kredi="10" DersSaati="10">
+      <Sinavlar>
+        <Sinav Adi="son">72</Sinav>
+        <Sinav Adi="MSSQL">72</Sinav>
+        <Sinav Adi="WEB">72</Sinav>
+        <Sinav Adi="Framework">72</Sinav>
+      </Sinavlar>
+      <Projeler>
+        <Proje Adi="sallamasyon">72</Proje>
+        <Proje Adi="MSSQL">72</Proje>
+        <Proje Adi="ADO.NET">72</Proje>
+        <Proje Adi="WEB">72</Proje>
+        <Proje Adi="Bitirme">72</Proje>
+      </Projeler>
+    </Ders>
+
+  </Ogrenci>
+</Ogrenciler>

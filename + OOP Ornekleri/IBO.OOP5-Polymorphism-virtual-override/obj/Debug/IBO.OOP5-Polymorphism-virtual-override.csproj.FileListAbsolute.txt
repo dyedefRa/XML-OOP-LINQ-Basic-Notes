@@ -1,0 +1,20 @@
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\bin\Debug\IBO.OOP5-Polymorphism-virtual-override.exe.config
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\bin\Debug\IBO.OOP5-Polymorphism-virtual-override.exe
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\bin\Debug\IBO.OOP5-Polymorphism-virtual-override.pdb
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5_Polymorphism_virtual_override.Form1.resources
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5_Polymorphism_virtual_override.Properties.Resources.resources
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.exe
+C:\Users\Asus\source\repos\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.pdb
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\bin\Debug\IBO.OOP5-Polymorphism-virtual-override.exe.config
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\bin\Debug\IBO.OOP5-Polymorphism-virtual-override.exe
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\bin\Debug\IBO.OOP5-Polymorphism-virtual-override.pdb
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5_Polymorphism_virtual_override.Form1.resources
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5_Polymorphism_virtual_override.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.exe
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP5-Polymorphism-virtual-override\obj\Debug\IBO.OOP5-Polymorphism-virtual-override.pdb

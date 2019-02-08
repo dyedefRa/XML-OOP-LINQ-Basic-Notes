@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\bin\Debug\XML.DATABSAEDEN VERI.LINQXML@@.exe.config
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\bin\Debug\XML.DATABSAEDEN VERI.LINQXML@@.exe
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\bin\Debug\XML.DATABSAEDEN VERI.LINQXML@@.pdb
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\obj\Debug\XML.DATABSAEDEN VERI.LINQXML@@.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\obj\Debug\XML.DATABSAEDEN_VERI.LINQXML__.Form1.resources
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\obj\Debug\XML.DATABSAEDEN_VERI.LINQXML__.Properties.Resources.resources
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\obj\Debug\XML.DATABSAEDEN VERI.LINQXML@@.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\obj\Debug\XML.DATABSAEDEN VERI.LINQXML@@.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\obj\Debug\XML.DATABSAEDEN VERI.LINQXML@@.exe
+C:\Users\Asus\source\repos\XML.DATABSAEDEN VERI.LINQXML@@\obj\Debug\XML.DATABSAEDEN VERI.LINQXML@@.pdb

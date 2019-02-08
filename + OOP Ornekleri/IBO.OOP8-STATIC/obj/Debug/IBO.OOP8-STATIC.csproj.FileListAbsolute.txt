@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\IBO.OOP8-STATIC\bin\Debug\IBO.OOP8-STATIC.exe.config
+c:\users\asus\source\repos\IBO.OOP8-STATIC\bin\Debug\IBO.OOP8-STATIC.exe
+c:\users\asus\source\repos\IBO.OOP8-STATIC\bin\Debug\IBO.OOP8-STATIC.pdb
+c:\users\asus\source\repos\IBO.OOP8-STATIC\obj\Debug\IBO.OOP8-STATIC.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\IBO.OOP8-STATIC\obj\Debug\IBO.OOP8_STATIC.Form1.resources
+c:\users\asus\source\repos\IBO.OOP8-STATIC\obj\Debug\IBO.OOP8_STATIC.Properties.Resources.resources
+c:\users\asus\source\repos\IBO.OOP8-STATIC\obj\Debug\IBO.OOP8-STATIC.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\IBO.OOP8-STATIC\obj\Debug\IBO.OOP8-STATIC.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\IBO.OOP8-STATIC\obj\Debug\IBO.OOP8-STATIC.exe
+c:\users\asus\source\repos\IBO.OOP8-STATIC\obj\Debug\IBO.OOP8-STATIC.pdb

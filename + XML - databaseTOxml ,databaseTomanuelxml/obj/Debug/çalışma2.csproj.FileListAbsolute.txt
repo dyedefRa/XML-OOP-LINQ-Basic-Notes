@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\çalışma2\bin\Debug\çalışma2.exe.config
+c:\users\asus\source\repos\çalışma2\bin\Debug\çalışma2.exe
+c:\users\asus\source\repos\çalışma2\bin\Debug\çalışma2.pdb
+c:\users\asus\source\repos\çalışma2\obj\Debug\çalışma2.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\çalışma2\obj\Debug\çalışma2.Form1.resources
+c:\users\asus\source\repos\çalışma2\obj\Debug\çalışma2.Properties.Resources.resources
+c:\users\asus\source\repos\çalışma2\obj\Debug\çalışma2.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\çalışma2\obj\Debug\çalışma2.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\çalışma2\obj\Debug\çalışma2.exe
+c:\users\asus\source\repos\çalışma2\obj\Debug\çalışma2.pdb

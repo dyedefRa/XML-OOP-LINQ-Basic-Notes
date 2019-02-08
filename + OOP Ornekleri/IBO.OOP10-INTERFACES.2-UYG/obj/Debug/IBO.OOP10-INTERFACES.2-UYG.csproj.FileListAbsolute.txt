@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\bin\Debug\IBO.OOP10-INTERFACES.2-UYG.exe.config
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\bin\Debug\IBO.OOP10-INTERFACES.2-UYG.exe
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\bin\Debug\IBO.OOP10-INTERFACES.2-UYG.pdb
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\obj\Debug\IBO.OOP10-INTERFACES.2-UYG.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\obj\Debug\IBO.OOP10_INTERFACES._2_UYG.Form1.resources
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\obj\Debug\IBO.OOP10_INTERFACES._2_UYG.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\obj\Debug\IBO.OOP10-INTERFACES.2-UYG.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\obj\Debug\IBO.OOP10-INTERFACES.2-UYG.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\obj\Debug\IBO.OOP10-INTERFACES.2-UYG.exe
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP10-INTERFACES.2-UYG\obj\Debug\IBO.OOP10-INTERFACES.2-UYG.pdb

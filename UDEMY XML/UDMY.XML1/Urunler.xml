@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<urunler firma="Baki AS" sube="Yalova Çınarcık">
+
+  <urun>
+    <adi>Kahve</adi>
+    <fiyat>4</fiyat>
+    <adet>20</adet>
+ </urun>
+
+  <urun>
+    <adi>Cay</adi>
+    <fiyat>3</fiyat>
+    <adet>150</adet>
+  </urun>
+
+</urunler>

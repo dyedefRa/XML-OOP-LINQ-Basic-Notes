@@ -1,0 +1,216 @@
+<?xml version="1.0" standalone="yes"?>
+<kitaplarım>
+  <kitap>
+    <KitapNo>1</KitapNo>
+    <KitapAd>Çalıkuşu</KitapAd>
+    <KitapYazar>Reşat</KitapYazar>
+    <KitapSayfa>200</KitapSayfa>
+    <KitapFiyat>10</KitapFiyat>
+    <KitapTarih>2015-01-05T00:00:00+02:00</KitapTarih>
+    <KitapYayinEvi>Güneş</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>2</KitapNo>
+    <KitapAd>Palto</KitapAd>
+    <KitapYazar>Gogol</KitapYazar>
+    <KitapSayfa>80</KitapSayfa>
+    <KitapFiyat>13</KitapFiyat>
+    <KitapTarih>2015-01-08T00:00:00+02:00</KitapTarih>
+    <KitapYayinEvi>Yıldız</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>3</KitapNo>
+    <KitapAd>Son Ada</KitapAd>
+    <KitapYazar>Zülfü</KitapYazar>
+    <KitapSayfa>300</KitapSayfa>
+    <KitapFiyat>12</KitapFiyat>
+    <KitapTarih>2015-02-08T00:00:00+02:00</KitapTarih>
+    <KitapYayinEvi>Yıldız</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>4</KitapNo>
+    <KitapAd>Toros Canavarı</KitapAd>
+    <KitapYazar>Aziz Nesin</KitapYazar>
+    <KitapSayfa>75</KitapSayfa>
+    <KitapFiyat>6</KitapFiyat>
+    <KitapTarih>2015-03-03T00:00:00+02:00</KitapTarih>
+    <KitapYayinEvi>Merkür</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>5</KitapNo>
+    <KitapAd>Siyah Lale</KitapAd>
+    <KitapYazar>Alexander</KitapYazar>
+    <KitapSayfa>220</KitapSayfa>
+    <KitapFiyat>7.534</KitapFiyat>
+    <KitapTarih>2015-05-05T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Jüpiter</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>6</KitapNo>
+    <KitapAd>Beyaz Zambaklar Ülkesi</KitapAd>
+    <KitapYazar>Gigory</KitapYazar>
+    <KitapSayfa>210</KitapSayfa>
+    <KitapFiyat>5</KitapFiyat>
+    <KitapTarih>2015-04-08T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Ay</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>7</KitapNo>
+    <KitapAd>Eylül</KitapAd>
+    <KitapYazar>Mehmet</KitapYazar>
+    <KitapSayfa>250</KitapSayfa>
+    <KitapFiyat>10.586</KitapFiyat>
+    <KitapTarih>2015-04-14T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Güneş</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>8</KitapNo>
+    <KitapAd>Beyaz Diş</KitapAd>
+    <KitapYazar>Jack London</KitapYazar>
+    <KitapSayfa>110</KitapSayfa>
+    <KitapFiyat>4</KitapFiyat>
+    <KitapTarih>2015-07-11T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Merkür</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>9</KitapNo>
+    <KitapAd>Kuyucaklı</KitapAd>
+    <KitapYazar>Sabahattin</KitapYazar>
+    <KitapSayfa>170</KitapSayfa>
+    <KitapFiyat>6</KitapFiyat>
+    <KitapTarih>2015-08-08T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Ay</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>10</KitapNo>
+    <KitapAd>Fareler</KitapAd>
+    <KitapYazar>John</KitapYazar>
+    <KitapSayfa>140</KitapSayfa>
+    <KitapFiyat>6</KitapFiyat>
+    <KitapTarih>2015-12-09T00:00:00+02:00</KitapTarih>
+    <KitapYayinEvi>Venüs</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>11</KitapNo>
+    <KitapAd>Beyaz</KitapAd>
+    <KitapYazar>Dostoyevski</KitapYazar>
+    <KitapSayfa>80</KitapSayfa>
+    <KitapFiyat>4</KitapFiyat>
+    <KitapTarih>2015-09-11T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>MaviBulut</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>12</KitapNo>
+    <KitapAd>Sefiller</KitapAd>
+    <KitapYazar>Victor Hugo</KitapYazar>
+    <KitapSayfa>850</KitapSayfa>
+    <KitapFiyat>25.586</KitapFiyat>
+    <KitapTarih>2015-12-08T00:00:00+02:00</KitapTarih>
+    <KitapYayinEvi>MaviBulut</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>13</KitapNo>
+    <KitapAd>Babalar</KitapAd>
+    <KitapYazar>Turganyev</KitapYazar>
+    <KitapSayfa>320</KitapSayfa>
+    <KitapFiyat>13</KitapFiyat>
+    <KitapTarih>2015-10-17T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Venüs</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>14</KitapNo>
+    <KitapAd>Oliver</KitapAd>
+    <KitapYazar>Charles</KitapYazar>
+    <KitapSayfa>140</KitapSayfa>
+    <KitapFiyat>7</KitapFiyat>
+    <KitapTarih>2015-04-02T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Güneş</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>15</KitapNo>
+    <KitapAd>Anadolu</KitapAd>
+    <KitapYazar>Reşat Nuri Gültekin</KitapYazar>
+    <KitapSayfa>280</KitapSayfa>
+    <KitapFiyat>14</KitapFiyat>
+    <KitapTarih>2015-06-11T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Merkür</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>16</KitapNo>
+    <KitapAd>Venedik</KitapAd>
+    <KitapYazar>Shakespeare</KitapYazar>
+    <KitapSayfa>140</KitapSayfa>
+    <KitapFiyat>4</KitapFiyat>
+    <KitapTarih>2015-06-07T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Merkür</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>17</KitapNo>
+    <KitapAd>Safahat</KitapAd>
+    <KitapYazar>Mehmet Akif</KitapYazar>
+    <KitapSayfa>680</KitapSayfa>
+    <KitapFiyat>11</KitapFiyat>
+    <KitapTarih>2016-08-08T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Ay</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>18</KitapNo>
+    <KitapAd>Nutukk</KitapAd>
+    <KitapYazar>Mustafa Kemal</KitapYazar>
+    <KitapSayfa>640</KitapSayfa>
+    <KitapFiyat>5</KitapFiyat>
+    <KitapTarih>2016-05-22T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>MaviBulut</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>21</KitapNo>
+    <KitapAd>Insan ne ile yaşar</KitapAd>
+    <KitapYazar>Tolstoy</KitapYazar>
+    <KitapSayfa>110</KitapSayfa>
+    <KitapFiyat>5</KitapFiyat>
+    <KitapTarih>2016-08-12T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>MaviBulut</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>22</KitapNo>
+    <KitapAd>Suç ve Ceza</KitapAd>
+    <KitapYazar>Baki Öztürk</KitapYazar>
+    <KitapSayfa>300</KitapSayfa>
+    <KitapFiyat>22</KitapFiyat>
+    <KitapTarih>2017-11-27T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Kele HERI</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>26</KitapNo>
+    <KitapAd>YAŞARIYE</KitapAd>
+    <KitapYazar>Baki Öztürk</KitapYazar>
+    <KitapSayfa>300</KitapSayfa>
+    <KitapFiyat>15</KitapFiyat>
+    <KitapTarih>2017-11-27T00:00:00+03:00</KitapTarih>
+  </kitap>
+  <kitap>
+    <KitapNo>30</KitapNo>
+    <KitapAd>YENI KITAP</KitapAd>
+    <KitapYazar>Baki Öztürk</KitapYazar>
+    <KitapSayfa>350</KitapSayfa>
+    <KitapFiyat>15</KitapFiyat>
+    <KitapTarih>2017-10-27T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Kele HERI</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>31</KitapNo>
+    <KitapAd>SA Kitabi</KitapAd>
+    <KitapYazar>Baki Öztürk</KitapYazar>
+    <KitapSayfa>300</KitapSayfa>
+    <KitapFiyat>10</KitapFiyat>
+    <KitapTarih>2017-11-27T00:00:00+03:00</KitapTarih>
+    <KitapYayinEvi>Kele HERI</KitapYayinEvi>
+  </kitap>
+  <kitap>
+    <KitapNo>32</KitapNo>
+    <KitapAd>MAHMUD</KitapAd>
+    <KitapYazar>MAHMUD BIN FESSAH</KitapYazar>
+    <KitapSayfa>333</KitapSayfa>
+    <KitapFiyat>12.5234</KitapFiyat>
+  </kitap>
+</kitaplarım>

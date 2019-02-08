@@ -1,0 +1,20 @@
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9_ABSTRACT.SINIFLAR.Form1.resources
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9_ABSTRACT.SINIFLAR.Properties.Resources.resources
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\bin\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.exe.config
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\bin\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.exe
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\bin\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.pdb
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.exe
+c:\users\asus\source\repos\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.pdb
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\bin\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.exe.config
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\bin\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.exe
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\bin\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.pdb
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9_ABSTRACT.SINIFLAR.Form1.resources
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9_ABSTRACT.SINIFLAR.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.exe
+C:\Users\Asus\source\repos\A.OOP @@@ IBO@@@\IBO.OOP9-ABSTRACT.SINIFLAR\obj\Debug\IBO.OOP9-ABSTRACT.SINIFLAR.pdb

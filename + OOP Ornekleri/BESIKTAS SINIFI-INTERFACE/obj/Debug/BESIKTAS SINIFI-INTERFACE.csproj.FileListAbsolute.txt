@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\obj\Debug\BESIKTAS SINIFI-INTERFACE.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\obj\Debug\BESIKTAS_SINIFI_INTERFACE.Form1.resources
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\obj\Debug\BESIKTAS_SINIFI_INTERFACE.Properties.Resources.resources
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\obj\Debug\BESIKTAS SINIFI-INTERFACE.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\obj\Debug\BESIKTAS SINIFI-INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\bin\Debug\BESIKTAS SINIFI-INTERFACE.exe.config
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\bin\Debug\BESIKTAS SINIFI-INTERFACE.exe
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\bin\Debug\BESIKTAS SINIFI-INTERFACE.pdb
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\obj\Debug\BESIKTAS SINIFI-INTERFACE.exe
+C:\Users\Asus\source\repos\BESIKTAS SINIFI-INTERFACE\obj\Debug\BESIKTAS SINIFI-INTERFACE.pdb

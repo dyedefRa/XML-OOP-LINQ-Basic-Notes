@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<calisanlar>
+  <personel ID="01" >
+    <ad>MAHEY</ad>
+    <soyad>BURDAN</soyad>
+    <maas>1800</maas>
+    <cinsiyet>erkek</cinsiyet>
+    <pozisyon>yönetici</pozisyon>
+  </personel>
+
+  <personel ID="02" >
+    <ad>BUGRA</ad>
+    <soyad>YONDEM</soyad>
+    <maas>1350</maas>
+    <cinsiyet>erkek</cinsiyet>
+    <pozisyon>isci</pozisyon>
+  </personel>
+  
+  <personel ID="03" >
+    <ad>GIZEM</ad>
+    <soyad>TOPAL</soyad>
+    <maas>2300</maas>
+    <cinsiyet>bayan</cinsiyet>
+    <pozisyon>oruspu</pozisyon>
+  </personel>
+  <personel ID="05" >
+    <ad>YELIZ</ad>
+    <soyad>KUCUKKURT</soyad>
+    <maas>3600</maas>
+    <cinsiyet>bayan</cinsiyet>
+    <pozisyon>2.OROSPO</pozisyon>
+  </personel>
+  
+  
+  
+  
+  
+  
+</calisanlar>

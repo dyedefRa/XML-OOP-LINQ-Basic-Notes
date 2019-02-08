@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Kitaplar>
+  <Kitap ID="1">
+    <KitapAdi AD="2">Çalıkuşu</KitapAdi>
+    <Yazari>Reşat</Yazari>
+    <SayfaSayisi>200</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="2">
+    <KitapAdi AD="3">Palto</KitapAdi>
+    <Yazari>Gogol</Yazari>
+    <SayfaSayisi>80</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="3">
+    <KitapAdi AD="4">Son Ada</KitapAdi>
+    <Yazari>Zülfü</Yazari>
+    <SayfaSayisi>300</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="4">
+    <KitapAdi AD="5">Toros Canavarı</KitapAdi>
+    <Yazari>Aziz Nesin</Yazari>
+    <SayfaSayisi>75</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="5">
+    <KitapAdi AD="6">Siyah Lale</KitapAdi>
+    <Yazari>Alexander</Yazari>
+    <SayfaSayisi>220</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="6">
+    <KitapAdi AD="7">Beyaz Zambaklar Ülkesi</KitapAdi>
+    <Yazari>Gigory</Yazari>
+    <SayfaSayisi>210</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="7">
+    <KitapAdi AD="8">Eylül</KitapAdi>
+    <Yazari>Mehmet</Yazari>
+    <SayfaSayisi>250</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="8">
+    <KitapAdi AD="9">Beyaz Diş</KitapAdi>
+    <Yazari>Jack London</Yazari>
+    <SayfaSayisi>110</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="9">
+    <KitapAdi AD="10">Kuyucaklı</KitapAdi>
+    <Yazari>Sabahattin</Yazari>
+    <SayfaSayisi>170</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="10">
+    <KitapAdi AD="11">Fareler</KitapAdi>
+    <Yazari>John</Yazari>
+    <SayfaSayisi>140</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="11">
+    <KitapAdi AD="12">Beyaz</KitapAdi>
+    <Yazari>Dostoyevski</Yazari>
+    <SayfaSayisi>80</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="12">
+    <KitapAdi AD="13">Sefiller</KitapAdi>
+    <Yazari>Victor Hugo</Yazari>
+    <SayfaSayisi>850</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="13">
+    <KitapAdi AD="14">Babalar</KitapAdi>
+    <Yazari>Turganyev</Yazari>
+    <SayfaSayisi>320</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="14">
+    <KitapAdi AD="15">Oliver</KitapAdi>
+    <Yazari>Charles</Yazari>
+    <SayfaSayisi>140</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="15">
+    <KitapAdi AD="16">Anadolu</KitapAdi>
+    <Yazari>Reşat Nuri Gültekin</Yazari>
+    <SayfaSayisi>280</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="16">
+    <KitapAdi AD="17">Venedik</KitapAdi>
+    <Yazari>Shakespeare</Yazari>
+    <SayfaSayisi>140</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="17">
+    <KitapAdi AD="18">Safahat</KitapAdi>
+    <Yazari>Mehmet Akif</Yazari>
+    <SayfaSayisi>680</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="18">
+    <KitapAdi AD="19">Nutukk</KitapAdi>
+    <Yazari>Mustafa Kemal</Yazari>
+    <SayfaSayisi>640</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="19">
+    <KitapAdi AD="20">Insan ne ile yaşar</KitapAdi>
+    <Yazari>Tolstoy</Yazari>
+    <SayfaSayisi>110</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="20">
+    <KitapAdi AD="21">Suç ve Ceza</KitapAdi>
+    <Yazari>Baki Öztürk</Yazari>
+    <SayfaSayisi>300</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="21">
+    <KitapAdi AD="22">YAŞARIYE</KitapAdi>
+    <Yazari>Baki Öztürk</Yazari>
+    <SayfaSayisi>300</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="22">
+    <KitapAdi AD="23">YENI KITAP</KitapAdi>
+    <Yazari>Baki Öztürk</Yazari>
+    <SayfaSayisi>350</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="23">
+    <KitapAdi AD="24">SA Kitabi</KitapAdi>
+    <Yazari>Baki Öztürk</Yazari>
+    <SayfaSayisi>300</SayfaSayisi>
+  </Kitap>
+  <Kitap ID="24">
+    <KitapAdi AD="25">MAHMUD</KitapAdi>
+    <Yazari>MAHMUD BIN FESSAH</Yazari>
+    <SayfaSayisi>333</SayfaSayisi>
+  </Kitap>
+</Kitaplar>

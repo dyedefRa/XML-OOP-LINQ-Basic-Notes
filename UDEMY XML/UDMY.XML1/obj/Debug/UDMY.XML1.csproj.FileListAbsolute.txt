@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\UDMY.XML1\bin\Debug\UDMY.XML1.exe.config
+C:\Users\Asus\source\repos\UDMY.XML1\bin\Debug\UDMY.XML1.exe
+C:\Users\Asus\source\repos\UDMY.XML1\bin\Debug\UDMY.XML1.pdb
+C:\Users\Asus\source\repos\UDMY.XML1\obj\Debug\UDMY.XML1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\UDMY.XML1\obj\Debug\UDMY.XML1.Form1.resources
+C:\Users\Asus\source\repos\UDMY.XML1\obj\Debug\UDMY.XML1.Properties.Resources.resources
+C:\Users\Asus\source\repos\UDMY.XML1\obj\Debug\UDMY.XML1.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\UDMY.XML1\obj\Debug\UDMY.XML1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UDMY.XML1\obj\Debug\UDMY.XML1.exe
+C:\Users\Asus\source\repos\UDMY.XML1\obj\Debug\UDMY.XML1.pdb

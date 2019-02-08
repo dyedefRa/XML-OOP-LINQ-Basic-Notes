@@ -1,0 +1,20 @@
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\bin\Debug\XML TEXT WRITER(ahme t yasin ak).exe.config
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\bin\Debug\XML TEXT WRITER(ahme t yasin ak).exe
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\bin\Debug\XML TEXT WRITER(ahme t yasin ak).pdb
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML_TEXT_WRITER_ahme_t_yasin_ak_.Form1.resources
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML_TEXT_WRITER_ahme_t_yasin_ak_.Properties.Resources.resources
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).exe
+C:\Users\Asus\source\repos\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).pdb
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\bin\Debug\XML TEXT WRITER(ahme t yasin ak).exe.config
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\bin\Debug\XML TEXT WRITER(ahme t yasin ak).exe
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\bin\Debug\XML TEXT WRITER(ahme t yasin ak).pdb
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML_TEXT_WRITER_ahme_t_yasin_ak_.Form1.resources
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML_TEXT_WRITER_ahme_t_yasin_ak_.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).exe
+C:\Users\Asus\source\repos\A.XML\AHMET\XML TEXT WRITER(ahme t yasin ak)\obj\Debug\XML TEXT WRITER(ahme t yasin ak).pdb

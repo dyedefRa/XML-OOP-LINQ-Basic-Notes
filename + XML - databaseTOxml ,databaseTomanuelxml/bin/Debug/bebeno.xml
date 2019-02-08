@@ -1,0 +1,122 @@
+<kitaplarim>
+  <kitap>
+    <KitapAd>Çalıkuşu</KitapAd>
+    <KitapYazar>Reşat</KitapYazar>
+    <KitapSayfa>200</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Palto</KitapAd>
+    <KitapYazar>Gogol</KitapYazar>
+    <KitapSayfa>80</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Son Ada</KitapAd>
+    <KitapYazar>Zülfü</KitapYazar>
+    <KitapSayfa>300</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Toros Canavarı</KitapAd>
+    <KitapYazar>Aziz Nesin</KitapYazar>
+    <KitapSayfa>75</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Siyah Lale</KitapAd>
+    <KitapYazar>Alexander</KitapYazar>
+    <KitapSayfa>220</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Beyaz Zambaklar Ülkesi</KitapAd>
+    <KitapYazar>Gigory</KitapYazar>
+    <KitapSayfa>210</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Eylül</KitapAd>
+    <KitapYazar>Mehmet</KitapYazar>
+    <KitapSayfa>250</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Beyaz Diş</KitapAd>
+    <KitapYazar>Jack London</KitapYazar>
+    <KitapSayfa>110</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Kuyucaklı</KitapAd>
+    <KitapYazar>Sabahattin</KitapYazar>
+    <KitapSayfa>170</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Fareler</KitapAd>
+    <KitapYazar>John</KitapYazar>
+    <KitapSayfa>140</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Beyaz</KitapAd>
+    <KitapYazar>Dostoyevski</KitapYazar>
+    <KitapSayfa>80</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Sefiller</KitapAd>
+    <KitapYazar>Victor Hugo</KitapYazar>
+    <KitapSayfa>850</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Babalar</KitapAd>
+    <KitapYazar>Turganyev</KitapYazar>
+    <KitapSayfa>320</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Oliver</KitapAd>
+    <KitapYazar>Charles</KitapYazar>
+    <KitapSayfa>140</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Anadolu</KitapAd>
+    <KitapYazar>Reşat Nuri Gültekin</KitapYazar>
+    <KitapSayfa>280</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Venedik</KitapAd>
+    <KitapYazar>Shakespeare</KitapYazar>
+    <KitapSayfa>140</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Safahat</KitapAd>
+    <KitapYazar>Mehmet Akif</KitapYazar>
+    <KitapSayfa>680</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Nutukk</KitapAd>
+    <KitapYazar>Mustafa Kemal</KitapYazar>
+    <KitapSayfa>640</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Insan ne ile yaşar</KitapAd>
+    <KitapYazar>Tolstoy</KitapYazar>
+    <KitapSayfa>110</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>Suç ve Ceza</KitapAd>
+    <KitapYazar>Baki Öztürk</KitapYazar>
+    <KitapSayfa>300</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>YAŞARIYE</KitapAd>
+    <KitapYazar>Baki Öztürk</KitapYazar>
+    <KitapSayfa>300</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>YENI KITAP</KitapAd>
+    <KitapYazar>Baki Öztürk</KitapYazar>
+    <KitapSayfa>350</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>SA Kitabi</KitapAd>
+    <KitapYazar>Baki Öztürk</KitapYazar>
+    <KitapSayfa>300</KitapSayfa>
+  </kitap>
+  <kitap>
+    <KitapAd>MAHMUD</KitapAd>
+    <KitapYazar>MAHMUD BIN FESSAH</KitapYazar>
+    <KitapSayfa>333</KitapSayfa>
+  </kitap>
+</kitaplarim>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBO.OOP10-INTERFACES.2-UYG", "IBO.OOP10-INTERFACES.2-UYG.csproj", "{DC29EE00-2D62-4EAC-969B-253DE2E7A637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC29EE00-2D62-4EAC-969B-253DE2E7A637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC29EE00-2D62-4EAC-969B-253DE2E7A637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC29EE00-2D62-4EAC-969B-253DE2E7A637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC29EE00-2D62-4EAC-969B-253DE2E7A637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5D217E-CB0E-49C8-848F-72DDB721E88E}
+	EndGlobalSection
+EndGlobal
